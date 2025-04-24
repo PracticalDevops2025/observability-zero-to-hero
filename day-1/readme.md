@@ -6,6 +6,7 @@
 - Logging(Logs):  involves the collection of log data from various components of a system.
     - `Logging explains why it is happening.`
 - Tracing(Traces): involves tracking the flow of a request or transaction as it moves through different services and components within a system.
+
     - `Tracing shows how it is happening.`
 
 ![Introduction to Observability](images/Introduction-to-Observability.png)
